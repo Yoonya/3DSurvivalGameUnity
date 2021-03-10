@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f2b9fe6883ad647af5d297bf8660cc, type: 3}
+  m_Name: Potion Yellow
+  m_EditorClassIdentifier: 
+  itemName: Potion Yellow
+  itemDesc: 
+  itemType: 1
+  itemImage: {fileID: 21300000, guid: d44ee583436ff6d48a3e8c1b9aa16af3, type: 3}
+  itemPrefab: {fileID: 1468387649476754, guid: 705f82ef31ab3e942bc9db78bcb7badf, type: 2}
+  weaponType: 

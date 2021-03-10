@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f2b9fe6883ad647af5d297bf8660cc, type: 3}
+  m_Name: Pickaxe
+  m_EditorClassIdentifier: 
+  itemName: Pickaxe
+  itemDesc: "\uAE30\uBCF8\uC801\uC778 \uACE1\uAD2D\uC774"
+  itemType: 0
+  itemImage: {fileID: 21300000, guid: 68baf98d9b81f444f8cc5699bbdd6d20, type: 3}
+  itemPrefab: {fileID: 1777097868936736, guid: 46f39d98c0e53204f8e2439812e20763, type: 2}
+  weaponType: PICKAXE
